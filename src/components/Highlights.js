@@ -16,7 +16,7 @@ function Comp(){
                   <section class="highlight">
                     <a href="https://slumblr.herokuapp.com/" class="image featured"><img src={slumblr} alt="" /></a>
                     <h3><a href="https://slumblr.herokuapp.com/">Slumblr</a></h3>
-                    <p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p>
+                    {/* <p></p> */}
                     <ul class="actions">
                       <li><a href="https://github.com/doncibo/slumblr" class="button style1">Repo Link</a></li>
                     </ul>
@@ -26,7 +26,7 @@ function Comp(){
                   <section class="highlight">
                     <a href="https://up-trade.herokuapp.com/" class="image featured"><img src={uptrade} alt="" /></a>
                     <h3><a href="https://up-trade.herokuapp.com/">Uptrade</a></h3>
-                    <p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p>
+                    {/* <p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p> */}
                     <ul class="actions">
                       <li><a href="https://github.com/doncibo/uptrade" class="button style1">Repo Link</a></li>
                     </ul>
@@ -36,7 +36,7 @@ function Comp(){
                   <section class="highlight">
                     <a href="https://aawhatsforlunch.herokuapp.com/" class="image featured"><img src={whatforlunch} alt="" /></a>
                     <h3><a href="https://aawhatsforlunch.herokuapp.com/">WhatsForLunch</a></h3>
-                    <p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p>
+                    {/* <p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p> */}
                     <ul class="actions">
                       <li><a href="https://github.com/drblack8/whatsforlunch" class="button style1">Repo Link</a></li>
                     </ul>
