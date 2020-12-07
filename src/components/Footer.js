@@ -26,7 +26,7 @@ function Comp(){
                 <div class="col-6 col-12-medium">
 
                   
-                    <section>
+                    {/* <section>
                       <form method="post" action="#">
                         <div class="row gtr-50">
                           <div class="col-6 col-12-small">
@@ -46,7 +46,7 @@ function Comp(){
                           </div>
                         </div>
                       </form>
-                    </section>
+                    </section> */}
 
                 </div>
                 <div class="col-6 col-12-medium">
