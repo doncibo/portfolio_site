@@ -7,7 +7,7 @@ function Comp(){
   
     return(
         <section id="header" class="wrapper">
-            <div id="logo">
+            <div id="logo">        
               <h1><a href="index.html">Quincy Jones</a></h1>
               <p>Full Stack Software Engineer | Understate, and overachieve... | Node.js, JavaScript, Python, HTML, CSS</p>
             </div>

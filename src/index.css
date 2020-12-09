@@ -1,4 +1,9 @@
 /* TODO Add site wide styles */
+#profile-pic {
+    height:400px;
+    margin-left: 150px;
+}
+
 #nav {
     position: fixed;
     display: block;
